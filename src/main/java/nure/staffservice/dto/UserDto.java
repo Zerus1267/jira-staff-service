@@ -10,6 +10,8 @@ public class UserDto {
 		this.firstName = firstName;
 		this.lastName = lastName;
 		this.rate = rate;
+		//fas
+		//asfasf
 	}
 
 	public UserDto() {
