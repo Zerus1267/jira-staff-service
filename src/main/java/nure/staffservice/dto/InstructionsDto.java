@@ -5,6 +5,7 @@ public class InstructionsDto {
 	public String name;
 	public int equipmentCount;
 	public int id;
+	public long idd;
 
 	public InstructionsDto() {
 	}
